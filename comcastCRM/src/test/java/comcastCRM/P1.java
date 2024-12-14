@@ -6,7 +6,7 @@ public class P1 {
 	@Test
 	public void dummy()
 	{
-		System.out.println("Hi");
+		System.out.println("Hijs");
 	}
 
 }
