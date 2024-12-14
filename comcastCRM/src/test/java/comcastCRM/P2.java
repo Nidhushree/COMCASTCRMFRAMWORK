@@ -6,7 +6,7 @@ public class P2 {
 	@Test
 	public void add()
 	{
-		System.out.println("Hi");
+		System.out.println("Hii");
 	}
 	
 
