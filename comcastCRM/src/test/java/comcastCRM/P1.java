@@ -9,7 +9,7 @@ public class P1 {
 		System.out.println("Hi  Hi");
 		System.out.println("hello ");
 		System.out.println("Bindu  R");
-		System.out.println("Sinchana");
+		System.out.println("Sinchanaa");
 	
 	}
 
