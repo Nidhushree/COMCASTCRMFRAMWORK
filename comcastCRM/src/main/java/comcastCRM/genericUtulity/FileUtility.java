@@ -11,7 +11,7 @@ public class FileUtility {
 		Properties pObj=new Properties();
 		pObj.load(fis);
 		String data = pObj.getProperty(key);
-		System.out.println("hi");
+		System.out.println("hiHJ");
 		return data;
 	}
 

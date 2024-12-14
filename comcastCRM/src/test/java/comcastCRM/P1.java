@@ -7,7 +7,7 @@ public class P1 {
 	public void dummy()
 	{
 		System.out.println("Hi");
-		System.out.println("hello");
+		System.out.println("hello ");
 	}
 
 }
