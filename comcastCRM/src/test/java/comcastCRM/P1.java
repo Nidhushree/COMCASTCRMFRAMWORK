@@ -9,7 +9,8 @@ public class P1 {
 		System.out.println("Hi  Hi");
 		System.out.println("hello ");
 		System.out.println("Bindu  R");
-		System.out.println("Sinchanaa");
+		System.out.println("Sinchanaa1");
+		
 	
 	}
 
