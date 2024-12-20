@@ -30,4 +30,11 @@ public class ContactTest {
 	{
 		System.out.println("execute modifyContactTest");
 	}
+
+@Test
+
+public void modifyOrgTest()
+{
+	System.out.println("execute modifyContactTest");
+}
 }
